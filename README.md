@@ -9,5 +9,5 @@
 - :dancers: Busco colaborar com exemplos de projetos Front-end
 - :dvd: Sobre mim: Curto tecnologias, games, animes e séries
 - :mailbox: Vocês podem entrar em contato em:
-    - E-mail: jpaulo.mmendes@gmail.com[![Gmail Badge](https://img.shields.io/badge/-jpaulo.mmendes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpaulo.mmendes@gmail.com)](mailto:jpaulo.mmendes@gmail.com)
-    - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)
+    - [![Gmail Badge](https://img.shields.io/badge/-jpaulo.mmendes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpaulo.mmendes@gmail.com)](mailto:jpaulo.mmendes@gmail.com)
+    - [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)
