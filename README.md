@@ -10,4 +10,4 @@
 - :dvd: Sobre mim: Curto tecnologias, games, animes e séries
 - :mailbox: Vocês podem entrar em contato em:
     - [![Gmail Badge](https://img.shields.io/badge/-jpaulo.mmendes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jpaulo.mmendes@gmail.com)](mailto:jpaulo.mmendes@gmail.com)
-    - [![Linkedin Badge](https://img.shields.io/badge/-João Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-matos-mendes-8161721b1/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-matos-mendes-8161721b1/)
+    - [![Linkedin Badge](https://img.shields.io/badge/-JoãoPaulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-matos-mendes-8161721b1/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-matos-mendes-8161721b1/)
