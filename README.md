@@ -1,11 +1,11 @@
 # João Paulo
 
 ## Olá pessoal 👋
-- 😄 Sou novo na área de Desenvolvimento Web e estou me apaixonando cada vez mais
-- 📐 Trabalho na empresa júnior Adapti, localizada na UFES, no Norte do Espírito Santo
-- :computer: Utilizo o framework Laravel para a criação de sites e sistemas web
-- 📚 Estou estudando Web no geral, principalmente Front-end, focando em HTML, CSS e JavaScript. Além disso, estou pesquisando conceitos de UI e UX
-- :scream: Posso ajudar com Front-end, com a interpretação de arquivos do tipo CSS e HTML
+- 😄 Atuo na área de Desenvolvimento Web e estou me apaixonando cada vez mais
+- 📐 Trabalho na empresa Eurekka, uma empresa voltada para soluções relacionadas à saúde mental, no qual faço parte de uma pequena equipe de TI interna
+- :computer: Atualmente utilizo React, Vue, TS, GraphQL, Tailwind nas aplicações do cotidiano
+- 📚 Atualmente estou explorando o mundo do Mobile. Além disso, pesquiso conceitos de UI e UX
+- :scream: Posso ajudar com Front-end, com a interpretação de arquivos do tipo CSS, HTML, JS, TS, assim como derivados vindos dos frameworks e bibliotecas
 - :dancers: Busco colaborar com exemplos de projetos Front-end
 - :dvd: Sobre mim: Curto tecnologias, games, animes e séries
 - :mailbox: Vocês podem entrar em contato em:
