@@ -1,8 +1,9 @@
 # João Paulo
 
 ## Olá pessoal 👋
-- 😄 Atuo na área de Desenvolvimento Web e estou me apaixonando cada vez mais
-- 📐 Trabalho na empresa Eurekka, uma empresa voltada para soluções relacionadas à saúde mental, no qual faço parte de uma pequena equipe de TI interna
+- 😄 Atuo na área de Desenvolvimento Web
+- :mortar_board: Formado como bacharel em Ciência da Computação pela Universidade Federal do Espírito Santo (UFES)
+- 📐 Trabalho na empresa Eurekka, uma empresa voltada para soluções relacionadas à saúde mental, no qual faço parte da equipe de TI interna
 - :computer: Atualmente utilizo React, Vue, TS, GraphQL, Tailwind nas aplicações do cotidiano
 - 📚 Atualmente estou explorando o mundo do Mobile. Além disso, pesquiso conceitos de UI e UX
 - :scream: Posso ajudar com Front-end, com a interpretação de arquivos do tipo CSS, HTML, JS, TS, assim como derivados vindos dos frameworks e bibliotecas
